@@ -1,0 +1,5 @@
+##### COMMANDS TO CREATE A SAMPLE DATABASE & COLLECTION #####
+> use sampledb
+
+##### COMMAND TO DISPLAY THE DOCUMENTS OF A COLLECTION #####
+> db.emp.find()
